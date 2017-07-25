@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="AR_House.csproj">
+﻿<Properties StartupItem="AR_House.CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Script\UI_manager.cs">
     <Files>

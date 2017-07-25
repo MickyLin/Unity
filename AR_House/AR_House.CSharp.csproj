@@ -132,9 +132,10 @@
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\_2_Baker House\Readme.txt" />
-    <None Include="Assets\license_3rdpartynotice.txt" />
-    <None Include="Assets\link.xml" />
-    <None Include="Assets\readme_SDK.txt" />
+    <None Include="Assets\_4_Mushroom house\StandardDoubleSided.shader" />
+    <None Include="Assets\_5_Interior_room\license_3rdpartynotice.txt" />
+    <None Include="Assets\_5_Interior_room\link.xml" />
+    <None Include="Assets\_5_Interior_room\readme_SDK.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
