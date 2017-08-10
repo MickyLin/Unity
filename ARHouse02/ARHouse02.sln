@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARHouse02.CSharp.Plugins", "ARHouse02.CSharp.Plugins.csproj", "{2DA00022-58A3-A112-0DDF-47627160F1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARHouse02.CSharp", "ARHouse02.CSharp.csproj", "{A43AAE42-871C-3CFC-FAF4-364DC22BEA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARHouse02.CSharp.Editor", "ARHouse02.CSharp.Editor.csproj", "{B11805C2-F531-59F1-AA00-431A5BFA63AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA00022-58A3-A112-0DDF-47627160F1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA00022-58A3-A112-0DDF-47627160F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA00022-58A3-A112-0DDF-47627160F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA00022-58A3-A112-0DDF-47627160F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43AAE42-871C-3CFC-FAF4-364DC22BEA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43AAE42-871C-3CFC-FAF4-364DC22BEA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43AAE42-871C-3CFC-FAF4-364DC22BEA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43AAE42-871C-3CFC-FAF4-364DC22BEA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11805C2-F531-59F1-AA00-431A5BFA63AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11805C2-F531-59F1-AA00-431A5BFA63AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11805C2-F531-59F1-AA00-431A5BFA63AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11805C2-F531-59F1-AA00-431A5BFA63AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
