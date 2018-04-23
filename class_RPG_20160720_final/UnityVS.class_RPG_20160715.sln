@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.class_RPG_20160715.CSharp.Plugins", "UnityVS.class_RPG_20160715.CSharp.Plugins.csproj", "{3E9B20F9-05EB-989C-E586-64C51A55B394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.class_RPG_20160715.CSharp", "UnityVS.class_RPG_20160715.CSharp.csproj", "{CD984AB6-8B30-8F58-F235-5933BC854918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.class_RPG_20160715.CSharp.Editor", "UnityVS.class_RPG_20160715.CSharp.Editor.csproj", "{B82C1D3A-E725-FB10-2977-82F7DEDF4BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9B20F9-05EB-989C-E586-64C51A55B394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9B20F9-05EB-989C-E586-64C51A55B394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9B20F9-05EB-989C-E586-64C51A55B394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9B20F9-05EB-989C-E586-64C51A55B394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD984AB6-8B30-8F58-F235-5933BC854918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD984AB6-8B30-8F58-F235-5933BC854918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD984AB6-8B30-8F58-F235-5933BC854918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD984AB6-8B30-8F58-F235-5933BC854918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82C1D3A-E725-FB10-2977-82F7DEDF4BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C1D3A-E725-FB10-2977-82F7DEDF4BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82C1D3A-E725-FB10-2977-82F7DEDF4BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82C1D3A-E725-FB10-2977-82F7DEDF4BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

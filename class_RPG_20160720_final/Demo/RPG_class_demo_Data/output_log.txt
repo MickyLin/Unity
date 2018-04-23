@@ -1,0 +1,49 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+我真的暗下了
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: D:\!!!Project\unity\unity4.0\class_RPG_20160715_meow_home\Demo\RPG_class_demo_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 4.114761 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4504.
+Total: 1.464892 ms (FindLiveObjects: 0.220822 ms CreateObjectMapping: 0.041987 ms MarkObjects: 0.449109 ms  DeleteObjects: 0.363890 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 2.495915 ms
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SkillsInfo.InitSkillInfoDict () [0x00000] in <filename unknown>:0 
+  at SkillsInfo.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 5435.
+Total: 1.470490 ms (FindLiveObjects: 0.173547 ms CreateObjectMapping: 0.049140 ms MarkObjects: 0.742087 ms  DeleteObjects: 0.172614 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

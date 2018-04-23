@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WolfBaby.cs">
+    <Files>
+      <File FileName="Assets\PlayerAttack.cs" Line="166" Column="27" />
+      <File FileName="Assets\WolfBaby.cs" Line="238" Column="3" />
+      <File FileName="Assets\HUDTextParent.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\PlayerDir.cs" Line="16" Column="18" />
+      <File FileName="Assets\_script\PlayerStatus.cs" Line="24" Column="2" />
+      <File FileName="Assets\_script\FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\SkillUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\SkillItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\HUD Text\Scripts\HUDText.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\PlayerAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\Tags.cs" Line="1" Column="1" />
+      <File FileName="Assets\CursorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\WolfSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\_script\ExpBar.cs" Line="16" Column="3" />
+      <File FileName="Assets\_script\HeadStatusUI.cs" Line="29" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
